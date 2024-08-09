@@ -1,1 +1,1 @@
-# Face-Recognition-Attendence-Sytem
+# Face-Recognition-Attendence-System
